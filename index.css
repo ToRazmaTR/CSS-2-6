@@ -1,0 +1,324 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#maincontainer {
+    padding: 96px;
+    max-width: 1604px;
+    width: 100%;
+    background: #E4EBFF;
+    margin: 0 auto;
+}
+
+#headercontainer {
+    max-width: 1280px;
+    width: 100%;
+    background: #FFF;
+    margin: 0 auto;
+    padding-top: 96px;
+}
+
+/* features div */
+
+#features {
+    margin-top: 96px;
+    max-width: 1216px;
+    width: 100%;
+    margin: 0 auto;
+    
+}
+
+#pfeatures {
+    color: #6941C6;
+    text-align: center;
+    font-size: 16px;
+    max-width: 929px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+#Analytics {
+    color: #181D27;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 12px;
+}
+
+#Powerful  {
+    color: #535862;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 32px;
+}
+
+/* startcontainer */
+
+    /* share-team--up-container */
+
+#startcontainer {
+    margin-top: 96px;
+
+}
+
+#share-team-container {
+    max-width: 553px;
+    width: 100%;
+    margin: 89px 96px 89px 32px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#Shareteaminboxesp {
+    color: #181D27;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+#Whether {
+    color: #535862;
+    font-size: 18px;
+    margin-top: 16px;
+}
+
+    /* share-team--down-container */
+
+#share-team--down-container {
+    margin-top: 32px;
+}
+
+#chechcircle {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#plaverage {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+}
+
+#chechcircle2 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#palways {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+}
+
+#chechcircle3 {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 12px;
+}
+
+#pautomate {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+}
+
+#laverage {
+    margin-bottom: 20px;
+}
+
+#always {
+    margin-bottom: 20px;
+}
+
+#share-team-screen {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* middlecontainer */
+
+    /* deliver-up-container */
+
+    #middlecontainer {
+        margin-top: 96px;
+    
+    }
+    
+    #deliver-container {
+        max-width: 553px;
+        width: 100%;
+        margin: 89px 32px 89px 96px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    
+    #deliver-screen {
+        display: inline-block;
+        vertical-align: middle;
+   
+    }
+    
+    
+    #deliverinboxesp {
+        color: #181D27;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    
+    #customerp {
+        color: #535862;
+        font-size: 18px;
+        margin-top: 16px;
+    }
+    
+        /* deliver-down-container */
+    
+    #deliver-down-container {
+        margin-top: 32px;
+    }
+    
+    #chechcircle4 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pKeep {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #chechcircle5 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pEmbed {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #chechcircle6 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pnever {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #Keep {
+        margin-bottom: 20px;
+    }
+    
+    #Embed {
+        margin-bottom: 20px;
+    }
+    
+
+/* lastcontainer */
+
+
+    /* last-up-container */
+
+    #lastcontainer {
+        margin-top: 96px;
+    
+    }
+    
+    #last-container {
+        max-width: 553px;
+        width: 100%;
+        margin: 89px 96px 89px 32px;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    
+    
+    #reportsp {
+        color: #181D27;
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    
+    
+    #export {
+        color: #535862;
+        font-size: 18px;
+        margin-top: 16px;
+    }
+    
+        /* share-team--down-container */
+    
+    #last-down-container {
+        margin-top: 32px;
+    }
+    
+    #chechcircle7 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pFilter {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #chechcircle8 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pschedule {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #chechcircle9 {
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: 12px;
+    }
+    
+    #pConnect {
+        display: inline-block;
+        vertical-align: middle;
+        color: #535862;
+        font-size: 18px;
+    }
+    
+    #Filter {
+        margin-bottom: 20px;
+    }
+    
+    #schedule {
+        margin-bottom: 20px;
+    }
+    
+    #last-screen {
+        display: inline-block;
+        vertical-align: middle;
+    }
